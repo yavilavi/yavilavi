@@ -17,5 +17,4 @@ Apart from needing a profile like mine, it must be a company that more than a sa
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yavilavi&" alt="yavilavi" /></p>
 
 # 📫 Connect with me:
-  - Email: yildavilla@gmail.com - yilmer0001@hotmail.com
   - [linkedIn!](https://www.linkedin.com/in/yildavilla/)
