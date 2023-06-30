@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yilmer Avila.</h1>
-<h3 align="center">A passionate web developer, with a high level of commitment, motivation, responsibility, honesty and a transparent person. Agile minded, with advanced knowledge in Scrum, ReactJS, Redux, JavaScript, NodeJS, Java, SQL, no-SQL, AWS, Heroku, Azure, Google Cloud Platform HTML and CSS. A person who always likes to learn something new and loves new challenges.</h3>
+<h3 align="center">A passionate web developer, with a high level of commitment, motivation, responsibility, honesty and a transparent person. Agile minded, with advanced knowledge in Scrum, ReactJS, Redux, JavaScript, NodeJS, SQL, no-SQL, AWS, Heroku, Azure, Google Cloud Platform HTML and CSS. A person who always likes to learn something new and loves new challenges.</h3>
 
 # 👯 **Why should you hire me?** 
 I am a person with excellent analytical skills and an incredible facility to learn quickly, who always likes to learn something new and loves challenges, in addition to this I am usually curious and I always like to venture into new professional and academic adventures that add value to my developer career, but the most important thing is that I am passionate about web development so you will always have a highly motivated member on your team able to give the extra mile to achieve the objetives.
