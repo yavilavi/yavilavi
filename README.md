@@ -12,7 +12,7 @@ Apart from needing a profile like mine, it must be a company that more than a sa
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavilavi&show_icons=true&locale=en&layout=compact" alt="yavilavi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavilavi&show_icons=true&locale=en" alt="yavilavi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavilavi&show_icons=true&locale=en&include_all_commits=true" alt="yavilavi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yavilavi&" alt="yavilavi" /></p>
 
